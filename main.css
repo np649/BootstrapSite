@@ -1,11 +1,11 @@
 .carousel {
-    margin: auto;
+    margin: auto auto;
 }
 
 .carousel-item,
 .carousel-inner,
 .carousel-inner img {
-    margin: auto;
+    margin: auto auto;
 }
 
 
