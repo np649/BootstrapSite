@@ -1,16 +1,10 @@
 .carousel {
-    height: 450px;
-    width: 800px;
-    align-self: center;
     margin: auto;
 }
 
 .carousel-item,
 .carousel-inner,
 .carousel-inner img {
-    height: 100%;
-    width: auto;
-    align-content: center;
     margin: auto;
 }
 
